@@ -1,4 +1,4 @@
-*qunit-vue*
+**qunit-vue**
 A simple JS library for QUnit test framework to test Vue components
 Add this file to your project like this: 
 ```html
