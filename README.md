@@ -1,6 +1,7 @@
 **QUnit-Vue**
 
 A simple JS library for QUnit test framework to test Vue components
+
 Add this file to your project like this: 
 ```html
 ...
@@ -9,4 +10,5 @@ Add this file to your project like this:
 <script src="your-tests.js"></script>
 ...
 ```
+
 You can find some examples of usage in examples.js file
